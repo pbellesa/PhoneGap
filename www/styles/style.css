@@ -145,7 +145,7 @@ body{
     width:50px;
     height:50px;
     text-align:center;
-    line-height:40px;
+    line-height:35px;
 }
 
 .footer p{
@@ -326,7 +326,7 @@ body{
     line-height:80px;
     font-size:14px;
     text-align:center;
-    color:#1f1f1f;
+    color:#ffffff;
     margin-right:10px;
     margin-top:5px;
 }
@@ -338,7 +338,7 @@ body{
     line-height:80px;
     font-size:14px;
     text-align:center;
-    color:#1f1f1f;
+    color:#ffffff;
     margin-top:5px;
 }
 
@@ -349,7 +349,7 @@ body{
     line-height:80px;
     font-size:14px;
     text-align:center;
-    color:#1f1f1f;
+    color:#ffffff;
     margin-top:5px;
 }
 
@@ -360,12 +360,12 @@ body{
     line-height:80px;
     font-size:14px;
     text-align:center;
-    color:#1f1f1f;
+    color:#ffffff;
     margin-top:5px;
 }
 
 .snap-drawer{
-    background-color:#262d33;
+    background-color:#145b7a;
 }
 
 #content{
